@@ -18,5 +18,4 @@ class Solution:
 
         return curr
 
-
 #Middle of the linked list
